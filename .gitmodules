@@ -1,0 +1,3 @@
+[submodule "tools/ngen"]
+	path = tools/ngen
+	url = https://github.com/visionmedia/ngen.git

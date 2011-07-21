@@ -1,0 +1,10 @@
+{
+    "name": "node-kyn"
+  , "version": "0.0.1"
+  , "description": "know your neighbor in node.js"
+  , "keywords": []
+  , "author": "seajsws <seajsws>"
+  , "dependencies": {"connect": "1"}
+  , "main": "index"
+  , "engines": { "node": "0.4.x" }
+}
