@@ -1,3 +1,6 @@
+// Know Your Neighbor brick
+// node index.js; open http://localhost:3000/
+
 var fs = require('fs'),
 connect = require('connect'),
 server,
