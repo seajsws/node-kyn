@@ -1,3 +1,6 @@
 [submodule "tools/ngen"]
 	path = tools/ngen
 	url = https://github.com/visionmedia/ngen.git
+[submodule "tools/html5-boilerplate"]
+	path = tools/html5-boilerplate
+	url = https://github.com/paulirish/html5-boilerplate.git
