@@ -36,3 +36,20 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 % brew install npm
 % npm update
 % node index.js
+
+
+
+## Deployment
+
+These instructions haven't been verified:
+
+http://devcenter.heroku.com/articles/node-js
+http://devcenter.heroku.com/articles/keys
+
+% gem install heroku
+% heroku create --stack cedar  
+http://severe-moon-790.herokuapp.com/ | git@heroku.com:severe-moon-790.git
+% git remote add git@heroku.com:severe-moon-790.git
+% heroku keys:add
+% git push heroku master  
+
