@@ -30,6 +30,9 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ## Installation 
 
+% git clone git@github.com:seajsws/node-kyn.git
+% cd node-kyn
 % brew install node 
 % brew install npm
+% npm update
 % node index.js
