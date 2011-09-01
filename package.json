@@ -1,13 +1,11 @@
 {
   "dependencies": {
-    "connect": "1",
-    "express": "2.2.0"
+    "express": "2"
   },
   "name": "node-kyn",
   "author": "seajsws <seajsws>",
   "version": "0.0.1",
   "engines": {
-    "node": "0.4.x"
   },
   "description": "Know Your Neighbor in Node.js",
   "keywords": [
