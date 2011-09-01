@@ -1,10 +1,17 @@
 {
-    "name": "node-kyn"
-  , "version": "0.0.1"
-  , "description": "know your neighbor in node.js"
-  , "keywords": []
-  , "author": "seajsws <seajsws>"
-  , "dependencies": {"connect": "1"}
-  , "main": "index"
-  , "engines": { "node": "0.4.x" }
+  "dependencies": {
+    "connect": "1",
+    "express": "2.2.0"
+  },
+  "name": "node-kyn",
+  "author": "seajsws <seajsws>",
+  "version": "0.0.1",
+  "engines": {
+    "node": "0.4.x"
+  },
+  "description": "Know Your Neighbor in Node.js",
+  "keywords": [
+    "social",
+    "developer"
+  ]
 }
